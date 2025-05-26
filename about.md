@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I’m **Anurag Bhatt** 👋
 
-### More Information
+I'm a self-taught programmer from India. These days, I spend my time building games, exploring graphics programming, and tinkering with whatever idea won't leave my head.
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is my digital playground, a mix of:
+- Projects I’m building (and sometimes breaking)
+- Thoughts on game dev, code, and design
+- Stories, odd observations, and the occasional rant
+
+If you enjoy following someone figuring things out in public, you’ll feel right at home here.
+
 
 ### Contact me
 
