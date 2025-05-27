@@ -18,4 +18,4 @@ If you enjoy following someone figuring things out in public, you’ll feel righ
 
 ### Contact me
 
-[email@domain.com](mailto:anuragbhatt1911@gmail.com)
+[anuragbhatt1911@gmail.com](mailto:anuragbhatt1911@gmail.com)
